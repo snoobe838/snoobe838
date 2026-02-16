@@ -4,21 +4,10 @@ This project automates sanity and regression test cases for the SIS application 
 It includes HTML reporting, email notifications, and retry mechanisms for test stability.
 
 ## Project Structure
+<img width="938" height="347" alt="image" src="https://github.com/user-attachments/assets/52d45f23-376a-4014-b1ee-c44c5e2d80e4" />
 
-├── .vscode/                            # VS Code settings and launch configurations
-├── config/                             # Environment configurations, secrets, and constants
-├── data/                               # Input data files (Excel, CSV, JSON, etc.)
-├── downloads/                          # Auto-downloaded files from browser sessions
-├── fixtures/                           # Pytest fixtures (driver, HTML reports, setup/teardown)
-├── logs/                               # Log files from test executions
-├── pages/                              # Page Object Model (POM) files for each module
-├── reports/                            # HTML reports, screenshots, and summary files
-├── tests/                              # Test cases organized by module or functionality
-├── utils/                              # Helper utilities (email, file ops, waits, etc.)
-├── conftest.py                         # Global pytest configuration and hooks
-├── pytest.ini                          # Pytest configuration (markers, ordering, etc.)
-├── requirements.txt                    # Python dependencies
-└── README.md                           # Project documentation
+<img width="958" height="362" alt="image" src="https://github.com/user-attachments/assets/9c372479-327b-4cb5-9282-cdafd5ee9f24" />
+
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
