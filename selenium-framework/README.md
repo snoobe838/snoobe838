@@ -4,7 +4,6 @@ This project automates sanity and regression test cases for the SIS application 
 It includes HTML reporting, email notifications, and retry mechanisms for test stability.
 
 ## Project Structure
-<img width="938" height="347" alt="image" src="https://github.com/user-attachments/assets/52d45f23-376a-4014-b1ee-c44c5e2d80e4" />
 
 <img width="958" height="362" alt="image" src="https://github.com/user-attachments/assets/9c372479-327b-4cb5-9282-cdafd5ee9f24" />
 
