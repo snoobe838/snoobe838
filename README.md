@@ -1,87 +1,95 @@
 # QA Automation Portfolio 🚀
 
-Welcome to my professional automation testing portfolio. This repository showcases multiple automation frameworks and demo projects covering AI-driven testing, UI automation, and no-code automation solutions.
+Welcome to my professional **QA Automation Portfolio**. This repository is a centralized showcase of multiple automation frameworks and demo projects covering **AI-driven testing, modern UI automation, and no-code automation solutions**. Each project demonstrates real-world automation strategies, scalable framework design, and industry best practices used in enterprise QA environments.
 
 ---
 
 ## 🧠 AI Automation Demo
 
-This project automates and validates an AI-based content generation application that creates course pages, learning modules, and question banks based on a user's prompt.
-The automation not only checks UI flow and content generation but also verifies the accuracy and semantic relevance of AI responses using SBERT and TFT similarity scoring, ensuring quality and meaningful output.
+This project automates and validates an AI-based content generation platform that creates **course pages, learning modules, and question banks** from user prompts.
 
-📂 Folder: ai-automation-demo
+Beyond UI automation, the framework performs **semantic validation of AI-generated content** using SBERT and TFT similarity scoring to measure accuracy, relevance, and alignment with expected outcomes. It demonstrates advanced automation techniques that combine UI testing with AI quality verification.
+
+**Key highlights:**
+
+* End-to-end automation of AI content workflows
+* Semantic similarity validation (SBERT + TFT)
+* Threshold-based accuracy verification
+* Regression-ready AI validation framework
+* Structured reporting and logging
+
+📂 Folder: `ai-automation-demo`
 
 ---
 
 ## 🎭 Playwright Automation Framework
 
-A modern end-to-end UI automation framework built using Playwright, designed for scalable and maintainable test execution. This project demonstrates industry best practices such as modular test architecture, reusable components, and robust test reporting.
-The framework supports cross-browser testing, parallel execution, and automated validation of real-world user workflows. It showcases structured test design, efficient selectors, and clean automation practices suitable for enterprise-level QA environments.
+A modern end-to-end UI automation framework built for **scalable and maintainable test execution**. This project demonstrates enterprise-grade architecture with modular design, reusable components, and robust reporting.
 
-Key highlights include:
-  Cross-browser automation (Chromium, Firefox, WebKit)
-  Scalable folder architecture
-  Automated test reporting
-  Parallel test execution
-  Realistic end-to-end UI scenarios
+The framework supports **cross-browser testing, parallel execution, and realistic user journey validation**, showcasing clean automation practices suitable for large-scale applications.
 
-📂 Folder: playwright-automation
+**Key highlights:**
+
+* Cross-browser automation (Chromium, Firefox, WebKit)
+* Scalable and modular framework architecture
+* Automated reporting and debugging tools
+* Parallel test execution
+* Realistic end-to-end UI scenarios
+
+📂 Folder: `playwright-automation`
 
 ---
 
 ## 🧪 Selenium Automation Framework
 
-A robust UI automation framework developed using Python with Selenium and pytest, designed to demonstrate scalable and maintainable test automation practices. This project follows industry-standard design patterns such as the Page Object Model to ensure clean, reusable, and easy-to-maintain test code.
-The framework automates real-world user scenarios, integrates structured test organization, and generates clear execution reports. It highlights best practices in test design, error handling, and framework architecture suitable for enterprise-level QA environments.
+A robust UI automation framework developed using Python with Selenium and pytest. The project follows industry-standard design patterns such as the **Page Object Model (POM)** to ensure clean, reusable, and maintainable test code.
 
-Key highlights include:
-  Page Object Model (POM) architecture
-  Structured and reusable test components
-  Automated test execution with pytest
-  Scalable framework design
-  Realistic end-to-end UI test scenarios
+It automates real-world workflows, integrates structured test organization, and generates detailed execution reports, demonstrating best practices in framework design and reliability.
 
-📂 Folder: selenium-framework
+**Key highlights:**
+
+* Page Object Model (POM) architecture
+* Reusable and structured test components
+* Automated execution with pytest
+* Scalable framework design
+* End-to-end UI automation scenarios
+
+📂 Folder: `selenium-framework`
 
 ---
 
 ## ⚡ MCP No-Code Automation Demo
 
-A practical demonstration of MCP-based no-code automation designed to showcase rapid test creation without traditional programming. This project highlights how visual workflows and configuration-driven automation can accelerate testing while maintaining reliability and repeatability.
-The demo focuses on building automated test scenarios through intuitive no-code tools, enabling faster test development, simplified maintenance, and accessibility for non-programmers. It illustrates how no-code automation can be integrated into modern QA processes to support quick validation of real-world business workflows.
+A practical demonstration of **no-code automation workflows** designed to enable rapid test creation without traditional programming.
 
-Key highlights include:
-  Visual no-code workflow automation
-  Rapid test creation and execution
-  Real-world scenario demonstrations
-  Simplified maintenance and scalability
-  Practical use cases for modern QA teams
+This project showcases documentation-driven testing using structured English test cases and automated execution reports. It highlights how no-code automation can accelerate QA processes while remaining accessible to non-technical contributors.
 
-📂 Folder: mcp-no-code-demo
+**Key highlights:**
 
----
+* Visual no-code workflow automation
+* English-based test case authoring
+* Automated Markdown execution reports
+* Simplified maintenance and scalability
+* Real-world business workflow demonstrations
 
-## 📊 Demo Assets
-
-* Sample test reports
-* Screenshots of automated runs
-
-Folders: sample-reports / screenshots
+📂 Folder: `mcp-no-code-demo`
 
 ---
 
 ## 🛠 Tech Stack
 
 * Python
+* TypeScript
 * Playwright
 * Selenium
 * Pytest
 * AI-assisted testing
-* MCP automation
+* No-code automation frameworks
 * CI/CD integration
 
 ---
 
 ## 📬 Contact
 
-Open to QA Automation and SDET opportunities.
+Open to **QA Automation Engineer** and **SDET** opportunities.
+Feel free to explore the projects and reach out for collaboration or discussion.
