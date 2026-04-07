@@ -24,17 +24,19 @@ Beyond UI automation, the framework performs **semantic validation of AI-generat
 
 ## 🎭 Playwright Automation Framework
 
-A modern end-to-end UI automation framework built for **scalable and maintainable test execution**. This project demonstrates enterprise-grade architecture with modular design, reusable components, and robust reporting.
-
-The framework supports **cross-browser testing, parallel execution, and realistic user journey validation**, showcasing clean automation practices suitable for large-scale applications.
+Modern end-to-end test automation framework built with Playwright and TypeScript, designed for scalable and maintainable testing.
+Supports data-driven testing, UI + API automation, multi-environment configuration, cross-browser execution, and parallel runs.
+Built using a modular architecture with reusable components, along with detailed reporting and logging, making it suitable for real-world enterprise applications and CI/CD integration.
 
 **Key highlights:**
 
 * Cross-browser automation (Chromium, Firefox, WebKit)
+* Real-world testing scenarios (UI + API workflows)
 * Scalable and modular framework architecture
 * Automated reporting and debugging tools
 * Parallel test execution
-* Realistic end-to-end UI scenarios
+* CI/CD-ready automation approach
+* Enterprise-level automation design
 
 📂 Folder: `playwright-automation`
 
